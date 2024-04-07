@@ -19,7 +19,11 @@ public class Updateques4 {
 
         // Prompt the user io input the second number
         System.out.print("Input second number: ");
+        int num2 = in.nextInt();
         // Read and store the second number
+
+        // Calculate the product of the two numbers and display the result
+        System.out.println(num1 + " x " + num2 + " = " + num1 * num2);
 
 
 
