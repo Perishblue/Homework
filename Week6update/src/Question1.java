@@ -3,6 +3,7 @@ public class Question1 {
    // Test Data: 74 + 36
     //Expected Output: 110
     public static void main(String[] args) {
+        // Declare and initialize variables
 
         int num1 = 74;
         int num2 = 36;
