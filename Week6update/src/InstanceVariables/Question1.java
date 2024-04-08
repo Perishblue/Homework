@@ -6,7 +6,15 @@ public class Question1 {
 
     String name = "darshan";
     String name1 = "visnudas";
-    String name2 = "name + name1";
 
+    // instance variables method
+
+    public static void main(String[] args) {
+        Question1 a = new Question1();
+
+        System.out.println(a.name);
+        System.out.println(a.name1);
+
+    }
 
 }
