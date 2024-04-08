@@ -7,7 +7,7 @@ public class Question2 {
     public static void main(String[] args) {
 
         Question2 a = new Question2();
-        a. name();
+        a.name();
 
     }
   // instance method answer
