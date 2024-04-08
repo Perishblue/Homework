@@ -13,6 +13,8 @@ public class Question2 {
   // instance method answer
     public void name() {
         System.out.println("darshan visnudas");
+        System.out.println("Kiya darshan");
+
     }
 
 }
