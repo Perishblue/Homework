@@ -28,7 +28,6 @@ public class Question5 {
             // Calculate the result by multiplies
             System.out.println(num1 + " x " + (i + 1) + " = " + (num1 * (i + 1)));
 
-
         }
         }
     }
