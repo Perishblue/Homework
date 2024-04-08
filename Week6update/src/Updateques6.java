@@ -9,6 +9,7 @@ public class Updateques6 {
         int number1 = 25;
         int number2 = 39;
 
+
         System.out.println("25 != 39");
         System.out.println("25 < 39");
         System.out.println("25 <= 39");
