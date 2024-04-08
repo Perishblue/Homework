@@ -6,7 +6,7 @@ public class Updateques6 {
     // 25 <= 39
 
     public static void main(String[] args) {
-        int number1 = 25;
+       int number1 = 25;
         int number2 = 39;
 
 

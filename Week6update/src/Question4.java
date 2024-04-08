@@ -12,6 +12,7 @@ public class Question4 {
 
     public static void main(String[] args) {
         // Calculate and print the product of x and y
+        System.out.println("Input first number:" +x);
         System.out.println(x * y);
 
     }
