@@ -14,6 +14,7 @@ public class Question3 {
         Question3 a = new Question3();
         a.m1();
     }
+    // instance method
 
     public void m1() {
         String course = "dars";
