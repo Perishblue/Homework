@@ -11,12 +11,12 @@ public class Question3 {
         System.out.println(name);
         System.out.println(name1);
         Question3 a = new Question3();
-        a.m1();
+        a.m();
 
 
     }
 
-    public void m1() {
+    public void m() {
         String course = "java";
         System.out.println(course);
         System.out.println(name);
