@@ -6,18 +6,16 @@ public class Answer5 {
     //and Two instance methods.)
 
     public static void main(String[] args) {
-        int first, second, add, subtract, multiply;
+        int add, subtract, multiply;
         float divide;
-        Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Enter two number : ");
-        first = scanner.nextInt();
-        second = scanner.nextInt();
+        int first = 30;
+        int second = 7;
 
         add = first + second;
         subtract = first - second;
         multiply = first * second;
-        divide = first / second;
+        divide = (float) first / second;
 
         System.out.println("sum = " + add);
         System.out.println("difference = " + subtract);
