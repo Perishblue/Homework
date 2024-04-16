@@ -2,7 +2,7 @@ package week7homework;
 
 import java.util.Scanner;
 
-public class Answer1 {
+public class Answer1w7 {
    /* Write a java program that tells us that Input number is odd or even? HINT: use ternary
     operator (? :)*/
 

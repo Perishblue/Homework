@@ -1,6 +1,6 @@
 package week7homework;
 
-public class Answer3 {
+public class Answer3w7 {
     /* Declare multidimensional array and store 5 countries and their capital and print them in
      console.*/
     public static void main(String[] args) {
