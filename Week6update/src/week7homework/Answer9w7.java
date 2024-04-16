@@ -5,7 +5,7 @@ public class Answer9w7 {
 
     public static void main(String[] args) {
 
-        for (int a = 1; a <11; a++) {
+        for (int a = 1; a < 11; a++) {
             System.out.println("Perishblue");
         }
     }
