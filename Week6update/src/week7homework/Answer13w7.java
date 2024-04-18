@@ -27,7 +27,7 @@ else if (Operator == '-')
 else if (Operator == '*')
 {result = number1 * number2;}
 else if (Operator == '/'){
-if (number2!=0){
+if (number2!=2){
 result = number1 / number2;}
 else {
     System.out.println("Error");}
